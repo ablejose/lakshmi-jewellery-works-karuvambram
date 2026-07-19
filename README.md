@@ -89,3 +89,5 @@ No component code should require modification.
 Recommended: **Vercel** (with Cloudinary for media). Set the environment variables from `.env.example` in your Vercel project settings.
 
 Targets: Lighthouse Performance ≥95, Accessibility ≥95, Best Practices ≥95, SEO = 100.
+
+<!-- deployed -->
